@@ -20,4 +20,4 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 ### 1. Clonar o Repositório
 
 ```bash
-git clone https://github.com/nirks/voosys.git
+git clone https://github.com/nirks/voosys-remake.git
